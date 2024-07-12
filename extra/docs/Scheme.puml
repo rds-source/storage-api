@@ -1,0 +1,19 @@
+@startwbs
+'https://plantuml.com/wbs-diagram
+
+* STORAGE
+** SPACE
+*** ELEMENT
+*** ELEMENT
+*** ELEMENT
+*** ELEMENT
+*** ELEMENT
+** SPACE
+*** ELEMENT
+*** ELEMENT
+*** ELEMENT
+** SPACE
+*** ELEMENT
+** ...
+*** ...
+@endwbs
